@@ -1,0 +1,23 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mounikaroyal/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mounikaroyal/serverless/issues"
+  },
+  "homepage": "https://github.com/mounikaroyal/serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^5.5.0"
+  }
+}
