@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mounikaroyal/serverless#readme",
   "devDependencies": {
-    "serverless-offline": "^5.5.0"
+    "serverless-offline": "^12.0.3"
   }
 }
